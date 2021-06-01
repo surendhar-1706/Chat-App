@@ -3,13 +3,4 @@
 Mobile Computing project.
 
 
- key Feautres
-Biometric / Fingerprint authentication
-End to End encryption using AES algorithm
-Authentication using Social id 
-    Gmail
-    Yahoo
-Web support for the mobile app where user can log in with the same id in mobile app and also in browser
-Realtime message exchange functionality using firebase
-Elegant design
-Swipe to delete  message functionality
+ A real time chat app with Biometric Authentication,Socail Id Signup functionality,AES end to end encryption with web support and swipe to delete functionality
